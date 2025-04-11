@@ -122,6 +122,7 @@ If you're a company looking to build intelligent feedback systems, or a team int
  
 > Aspiring Data Scientist | ML Engineer  
 > [[LinkedIn](https://www.linkedin.com/in/vedantpancholi/)] • [[GitHub](https://github.com/VedantPancholi)]
+> [[LinkedIn](https://www.linkedin.com/in/mansi-thakkar11/)] • [[GitHub](https://github.com/Mansi111000)]
 
 ---
 
