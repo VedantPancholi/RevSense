@@ -103,6 +103,19 @@
 
 ---
 
+## 🖼️ Example Output & Results
+
+![WhatsApp Image 2025-04-11 at 15 35 42_93ce7db0](https://github.com/user-attachments/assets/5270997a-e1ff-4685-a258-cb5fe9b9556a)
+![WhatsApp Image 2025-04-11 at 15 35 41_64157dc2](https://github.com/user-attachments/assets/9aab7848-23f8-473a-a66a-8a29bcf7e35c)
+![WhatsApp Image 2025-04-11 at 15 35 41_2149c581](https://github.com/user-attachments/assets/1c2ecc9b-b42f-423f-a67e-21c13b12db6f)
+![WhatsApp Image 2025-04-11 at 15 42 33_238f8a1a](https://github.com/user-attachments/assets/6e4f7829-7cb7-43a9-b60b-a4bbdfca7e6c)
+
+- API Response...
+![image](https://github.com/user-attachments/assets/0e8f3e67-fed2-4e42-be66-acca702207aa)
+
+
+---
+
 ## 📫 Contact
 
 If you're a company looking to build intelligent feedback systems, or a team interested in using Revsense — feel free to connect.
