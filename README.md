@@ -1,4 +1,4 @@
-# 🚀 Revsense – Customer Feedback Analytics & Sentiment Insights Platform
+# 🚀 RevSense – Customer Feedback Analytics & Sentiment Insights Platform
 
 **Revsense** is an end-to-end AI-powered platform that extracts, processes, categorizes, and visualizes customer reviews from multi-source platforms to generate actionable business insights. It combines advanced NLP, real-time automation, and LLM-based reasoning to transform raw user feedback into strategic decision-making tools.
 
