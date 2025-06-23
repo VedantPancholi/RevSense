@@ -115,15 +115,7 @@
 
 ---
 
-## 📫 Contact
 
-If you're a company looking to build intelligent feedback systems, or a team interested in using Revsense — feel free to connect.
- 
-> Aspiring Data Scientist | ML Engineer  
-> [[LinkedIn](https://www.linkedin.com/in/vedantpancholi/)] • [[GitHub](https://github.com/VedantPancholi)]
-> [[LinkedIn](https://www.linkedin.com/in/mansi-thakkar11/)] • [[GitHub](https://github.com/Mansi111000)]
-
----
 
 ## 🚦 How to Run This Project
 
@@ -166,5 +158,18 @@ The backend API will be available at [http://localhost:8000](http://localhost:80
 ### 6. Access the Application
 - Open your browser and go to [http://localhost:3000](http://localhost:3000) for the dashboard.
 - The FastAPI backend endpoints will be available at [http://localhost:8000](http://localhost:8000).
+
+---
+
+
+## 📫 Contact
+
+If you're a company looking to build intelligent feedback systems, or a team interested in using RevSense — feel free to connect.
+ 
+> Aspiring Data Scientist | ML Engineer  
+> [[LinkedIn](https://www.linkedin.com/in/vedantpancholi/)] • [[GitHub](https://github.com/VedantPancholi)]
+> [[LinkedIn](https://www.linkedin.com/in/mansi-thakkar11/)] • [[GitHub](https://github.com/Mansi111000)]
+> [[LinkedIn](https://www.linkedin.com/in/parmarsachin7123/)] • [[GitHub](https://github.com/Sachin7123)]
+> [[LinkedIn](https://www.linkedin.com/in/henil-prajapati14/)] • [[GitHub](https://github.com/Henil-Prajapati)]
 
 ---
