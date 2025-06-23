@@ -135,28 +135,74 @@ export default function Home() {
                 desc: "Track customer satisfaction metrics and retention patterns to improve loyalty.",
                 icon: <FaHeadset className="w-8 h-8" />,
                 color: "from-blue-500 to-blue-600",
+<<<<<<< HEAD
                 href: "/customer-satisfaction",
+=======
+                metrics: [
+                  {
+                    label: "Likelihood to Recommend",
+                    data: [
+                      { name: "Highly Likely", value: 463 },
+                      { name: "Neutral", value: 85 },
+                      { name: "Unlikely", value: 578 }
+                    ]
+                  },
+                  {
+                    label: "Sentiment Distribution",
+                    data: [
+                      { name: "Positive", value: 20 },
+                      { name: "Negative", value: 9 },
+                      { name: "Neutral", value: 1 }
+                    ]
+                  },
+                  {
+                    label: "Service Excellence",
+                    data: [
+                      { name: "Fast & Responsive", value: 34 },
+                      { name: "Courteous & Polite", value: 7 },
+                      { name: "Helpful & Accommodating", value: 2 }
+                    ]
+                  },
+                  {
+                    label: "Service Issues",
+                    data: [
+                      { name: "Poor Support", value: 333 },
+                      { name: "Repeated Complaints", value: 33 },
+                      { name: "Negative Interaction", value: 54 }
+                    ]
+                  }
+                ]
+>>>>>>> 751ea0e74d1bed199091c904301c8d661a331091
               },
               {
                 title: "Delivery Performance",
                 desc: "Monitor delivery operations and optimize logistics efficiency.",
                 icon: <FaTruck className="w-8 h-8" />,
                 color: "from-purple-500 to-purple-600",
+<<<<<<< HEAD
                 href: "/delivery-performance",
+=======
+>>>>>>> 751ea0e74d1bed199091c904301c8d661a331091
               },
               {
                 title: "Food Quality",
                 desc: "Track food quality metrics and maintain high product standards.",
                 icon: <FaUtensils className="w-8 h-8" />,
                 color: "from-orange-500 to-orange-600",
+<<<<<<< HEAD
                 href: "/food-quality",
+=======
+>>>>>>> 751ea0e74d1bed199091c904301c8d661a331091
               },
               {
                 title: "Pricing Strategy",
                 desc: "Analyze pricing effectiveness and optimize discount strategies.",
                 icon: <FaDollarSign className="w-8 h-8" />,
                 color: "from-green-500 to-green-600",
+<<<<<<< HEAD
                 href: "/pricing-strategy",
+=======
+>>>>>>> 751ea0e74d1bed199091c904301c8d661a331091
               },
               {
                 title: "Business Insights",
@@ -192,6 +238,26 @@ export default function Home() {
                   {feature.title}
                 </h3>
                 <p className="text-gray-600 text-lg mb-4">{feature.desc}</p>
+<<<<<<< HEAD
+=======
+                {feature.metrics && (
+                  <div className="space-y-4">
+                    {feature.metrics.map((metric, metricIdx) => (
+                      <div key={metricIdx} className="bg-gray-50 p-4 rounded-lg">
+                        <h4 className="text-sm font-medium text-gray-700 mb-2">{metric.label}</h4>
+                        <div className="space-y-2">
+                          {metric.data.map((item, itemIdx) => (
+                            <div key={itemIdx} className="flex justify-between items-center">
+                              <span className="text-sm text-gray-600">{item.name}</span>
+                              <span className="text-sm font-medium text-gray-900">{item.value}</span>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                )}
+>>>>>>> 751ea0e74d1bed199091c904301c8d661a331091
                 {feature.href && (
                   <Link
                     href={feature.href}
