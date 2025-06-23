@@ -1,0 +1,49 @@
+{
+  "name": "revsense",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.10.4",
+    "@edgestore/react": "^0.2.2",
+    "@edgestore/server": "^0.2.2",
+    "@radix-ui/react-slot": "^1.1.1",
+    "@shadcn/ui": "^0.0.4",
+    "add": "^2.0.6",
+    "button": "^1.1.1",
+    "chart.js": "^4.4.7",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.6.2",
+    "init": "^0.1.2",
+    "lucide-react": "^0.474.0",
+    "next": "15.1.6",
+    "nextjs-cors": "^2.2.0",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.4.0",
+    "recharts": "^2.15.1",
+    "shadcn": "^2.3.0",
+    "tailwind-merge": "^3.0.1",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "22.13.14",
+    "@types/react": "19.0.12",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.6",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "5.8.2"
+  }
+}
